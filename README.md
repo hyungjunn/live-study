@@ -30,6 +30,7 @@
 
 ### 참여도
 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0417taehyun ||: white_check_mark:|: white_check_mark:|: white_check_mark:||||||||||||||| | 16.67% |
 | 1031nice ||: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|||||||| | 55.56% |
 | 2yeseul ||: white_check_mark:|: white_check_mark:||: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|: white_check_mark:|||||||| | 50.00% |
